@@ -8,5 +8,7 @@ namespace Testing
 {
     class ClassTesting
     {
+        
+      string;
     }
 }
