@@ -13,6 +13,9 @@ namespace Testing
 
             int Num = 0;
         int num = 1;
+
+
+        double dub = 2.11313131313;
         int num = 2;
     }
 }
