@@ -10,5 +10,7 @@ namespace Testing
     {
         
       string;
+
+            int Num = 0;
     }
 }
