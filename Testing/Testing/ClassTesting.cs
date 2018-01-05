@@ -9,8 +9,9 @@ namespace Testing
     class ClassTesting
     {
         
-      string;
+            string hej = "hej med dig";
 
             int Num = 0;
+
     }
 }
