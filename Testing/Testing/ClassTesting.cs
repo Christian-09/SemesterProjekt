@@ -12,5 +12,6 @@ namespace Testing
       string;
 
             int Num = 0;
+        int num = 1;
     }
 }
