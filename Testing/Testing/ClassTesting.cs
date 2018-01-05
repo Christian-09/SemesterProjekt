@@ -13,5 +13,6 @@ namespace Testing
 
             int Num = 0;
         int num = 1;
+        int num = 2;
     }
 }
